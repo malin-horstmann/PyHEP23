@@ -9,7 +9,6 @@ dependencies:
   - jaxlib==0.4.2
   # use '=' to minor version as different conda-forge releases across platforms
   - pymc=5.0
-  - blackjax==0.9.6
   - corner==2.2.1
   - aesara==2.8.12
   # jupyter
