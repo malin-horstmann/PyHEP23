@@ -1,0 +1,7 @@
+notebook~=7.0
+jupyterlab~=4.0
+pyhf==0.7.0
+jax==0.4.2
+jaxlib==0.4.2
+pymc==5.8.2
+corner==2.2.1
