@@ -37,7 +37,7 @@ classifiers = [
 ]
 dependencies = [
     "pyhf>=0.7.0",
-    "jax>=0.4.2",
+    "jax==0.4.2",
     "jaxlib== 0.4.2",
     "pymc>=5.0.2",
     # "corner==2.2.1",
