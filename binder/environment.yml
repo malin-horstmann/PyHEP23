@@ -12,7 +12,8 @@ dependencies:
   - corner==2.2.1
   - aesara==2.8.12
   # jupyter
-  - notebook>=6.5.2
+  # notebook v7.x seems to break SSL BinderHub for now
+  - notebook~=6.5
   # use '>=' as different conda-forge releases across platforms
   - jupyterlab>=3.5.3
   - ipympl==0.9.2
